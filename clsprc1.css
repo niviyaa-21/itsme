@@ -1,0 +1,32 @@
+.progress{
+    width: 200px;
+    height: 300px;
+    
+}
+
+.bar1{display: flex;}
+.b11{height: 10px;
+    width: 60%;
+     background-color: darkcyan;}
+
+.b12{height: 10px;
+        width: 40%;
+         background-color: rgb(12, 13, 13);}
+
+.bar2{display: flex;}
+ .b21{height: 10px;
+     width: 60%;
+      background-color: darkcyan;}
+ 
+ .b22{height: 10px;
+         width: 40%;
+          background-color: rgb(12, 13, 13);}
+          1
+.bar3{display: flex;}
+    .b31{height: 10px;
+        width: 60%;
+         background-color: darkcyan;}
+    
+    .b32{height: 10px;
+            width: 40%;
+             background-color: rgb(12, 13, 13);}
